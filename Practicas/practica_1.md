@@ -16,4 +16,4 @@ $ ps aux | grep apache
 ```
 **Salida** 
 
-![imagen](https://github.com/marlenelis/SWAP/blob/master/images/practica1%20_S3.png)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/practica1%20_S3.png)

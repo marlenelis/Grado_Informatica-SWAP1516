@@ -12,7 +12,7 @@
 
 ## Temario	de	prácticas:
 
-- **Práctica 1.** Preparación de las herramientas. [Práctica1]() 	
+- **Práctica 1.** Preparación de las herramientas. [Práctica1](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md) 	
 - **Práctica 2.** Clonar la información	entre servidores.
 - **Práctica 3.** Balanceo de carga.
 - **Práctica 4.** Comprobar el rendimiento de un servidor web.
