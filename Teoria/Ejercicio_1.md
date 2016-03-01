@@ -2,7 +2,7 @@
 **Buscar información sobre el tipo de contenido para el que los siguientes software de servidor web es más adecuado (o más eficiente, o se usa más actualmente...)** 
 
 
-- [Software de Servidor Web](#)
+- Software de Servidor Web
   - [Apache](#apache)
   - [Nginx](#nginx) 
   - [Thttpd](#thttpd) 
