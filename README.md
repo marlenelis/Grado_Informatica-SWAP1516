@@ -1,8 +1,8 @@
 #  Servidores Web de Altas Prestaciones (SWAP)
 
 ## Temario de teoría:
-- **Tema 1.** Introducción. [Trabajos][1T] 
-- **Tema 2.** Alta disponibilidad y escalabilidad en servidores web.
+- **Tema 1.** Introducción. [ejer:1][1T] 
+- **Tema 2.** Alta disponibilidad y escalabilidad en servidores web.[ejer:1][2T-1],[ejer:2][2T-2]
 - **Tema 3.** La red de	una granja web.
 - **Tema 4.** Balanceo de carga.
 - **Tema 5.** Medición de prestaciones.
@@ -19,4 +19,8 @@
 - **Práctica 6.** Almacenamiento en RAID.
 
 [1T]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Ejercicio_1.md 
+[2T-1]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicio_T2_1.md
+[2T-2]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicio_T2_2.md
+
+
 [1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md	
