@@ -2,7 +2,7 @@
 
 ## Temario de teoría:
 - **Tema 1.** Introducción. [ejer:1][1T] 
-- **Tema 2.** Alta disponibilidad y escalabilidad en servidores web.[ejer:1][2T-1],[ejer:2][2T-2]
+- **Tema 2.** Alta disponibilidad y escalabilidad en servidores web. [ejer:1][2T-1], [ejer:2][2T-2]
 - **Tema 3.** La red de	una granja web.
 - **Tema 4.** Balanceo de carga.
 - **Tema 5.** Medición de prestaciones.
@@ -11,7 +11,7 @@
 - **Tema 8.** Hardware y software para servidores web.
 
 ## Temario de prácticas:
-- [**Práctica 1.**](1T) Preparación de las herramientas. 
+- [**Práctica 1.**][1P] Preparación de las herramientas. 
 - **Práctica 2.** Clonar la información	entre servidores.
 - **Práctica 3.** Balanceo de carga.
 - **Práctica 4.** Comprobar el rendimiento de un servidor web.
@@ -22,5 +22,4 @@
 [2T-1]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicio_T2_1.md
 [2T-2]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicio_T2_2.md
 
-
-[1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md	
+[1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md

@@ -6,6 +6,10 @@ El objetivo es instalar y configurar las máquinas virtuales para trabajar en pr
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p1_1.jpg)
 
+Durante la instalación elegir los siguientes programas a instalar.
+- OpenSSH server
+- LAMP server
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p1_2.jpg)
 
 ### Resultados
