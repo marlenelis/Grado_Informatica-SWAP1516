@@ -27,6 +27,6 @@ $ ps aux | grep apache
 ```
 **Salida** 
 
-En la siguiente imagen se puede observar que en el listado el proceso del servidor web (apache) esta activo. 
+
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/practica1%20_S3.png)
