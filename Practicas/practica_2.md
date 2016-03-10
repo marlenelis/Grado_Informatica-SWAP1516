@@ -49,11 +49,12 @@ $ ssh-copy-id -i .ssh/id_dsa.pub 192.168.1.101
  ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_4.jpg)
 
 > Comprobar si se ha realizado la copia en la máquina principal.
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_5.jpg)
 
 > Se comprueba que se puede conectar a la máquina principal sin contraseña.
 
- ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_6.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_6.jpg)
 
 - Establecer una tarea en cron (mantener actualizado el directorio /var/www/).
 
@@ -64,12 +65,12 @@ $ ssh-copy-id -i .ssh/id_dsa.pub 192.168.1.101
   10 * * * *  root rsync -avz -e ssh 192.168.1.101:/var/www/ /var/www/
 ```
 
- ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_7.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_7.jpg)
 
-  - Por último comprobar la ejecución de la tarea
-   - se descarga una imagen y se guarda en el directorio /var/www/ de la máquina principal para modificar el estado y comprobar si se produce la actualización en la máquina secundaria.
+  - Por último para comprobar la ejecución de la tarea,procedo a descargar una imagen y guardarla en el directorio /var/www/ de la máquina principal para modificar el estado y comprobar si se produce la actualización en la máquina secundaria.
 
- ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_8.jpg)
 
- ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_9.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_8.jpg)
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_9.jpg)
 
