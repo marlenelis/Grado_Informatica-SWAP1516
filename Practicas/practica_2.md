@@ -67,7 +67,7 @@ $ ssh-copy-id -i .ssh/id_dsa.pub 192.168.1.101
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_7.jpg)
 
-  - Por último para comprobar la ejecución de la tarea,procedo a descargar una imagen y guardarla en el directorio /var/www/ de la máquina principal para modificar el estado y comprobar si se produce la actualización en la máquina secundaria.
+  - Por último para comprobar la ejecución de la tarea, procedo a descargar una imagen y guardarla en el directorio /var/www/ de la máquina principal para modificar el estado y comprobar si se produce la actualización en la máquina secundaria.
 
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_8.jpg)
