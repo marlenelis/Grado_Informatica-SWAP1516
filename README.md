@@ -9,8 +9,10 @@
 - **Tema 6.** Asegurar el sistema web.
 - **Tema 7.** Almacenamiento de datos.
 - **Tema 8.** Hardware y software para servidores web.
+  - [TRABAJOS][EJ]
 
-## Temario de prácticas:
+## Temario de prácticas: 
+
 - [**Práctica 1.**][1P] Preparación de las herramientas. 
 - [**Práctica 2.**][2P] Clonar la información entre servidores.
 - **Práctica 3.** Balanceo de carga.
@@ -23,6 +25,7 @@
 [2T-2]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicio_T2_2.md
 
 
-
 [1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md
 [2P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_2.md
+
+[EJ]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/readme.md

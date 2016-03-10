@@ -25,7 +25,7 @@ $ tar czf - /var/www/ | ssh 192.168.1.102 'cat > ~/tar.tgz'
 
 
 ```sh
-$ rsync -avz -e ssh 192.168.1.102:/var/www/ /var/www/
+$ rsync -avz -e ssh 192.168.1.101:/var/www/ /var/www/
 ```
 
 > ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_1.jpg)
@@ -33,18 +33,35 @@ $ rsync -avz -e ssh 192.168.1.102:/var/www/ /var/www/
 
 - Configuración de ssh
 
+> Generación de clave dsa en ssh
+
 ```sh
-$ 
+$ ssh-keygen -t dsa
 ```
 
+> ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_3.jpg)
+
+
+> Copiar la clave publica a la máquina principal.
+
+```sh
+$ ssh-copy-id -i .ssh/id_dsa.pub 192.168.1.101
+```
+> ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_4.jpg)
+
+> Comprobar si se ha realizado la copia en la máquina principal.
 > ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_5.jpg)
 
+> Ahora ya podemos conectarnos a la máquina principal sin contraseña.
 
+> ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_6.jpg)
 
 - Establecer una tarea en cron (mantener actualizado el directorio /var/www/).
 
+  - editamos el fichero /etc/crontab y añadimos la siguiente línea al final.
+
 ```sh
-$ 
+  0 * * * * rsync -avz -e ssh <IP maquina>:/var/www/ /var/www/
 ```
 
 > ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p2_7.jpg)
