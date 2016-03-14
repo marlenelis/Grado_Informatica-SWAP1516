@@ -1,10 +1,10 @@
-# Ejercicio Tema 2 
-- [Ejercicio 1](#ejercicio1)
-- [Ejercicio 2](#ejercicio2)
-- [Ejercicio 3](#ejercicio3)
-- [Ejercicio 4](#ejercicio4)
+# Ejercicios Tema 2 
+- [Ejercicio 1](#ejercicio-1)
+- [Ejercicio 2](#ejercicio-2)
+- [Ejercicio 3](#ejercicio-3)
+- [Ejercicio 4](#ejercicio-4)
 
-### Ejercicio 1
+## Ejercicio 1
 **Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento (en total 3 elementos en cada subsistema).**
 
 -  Disponibilidad 1 y 2
@@ -39,43 +39,46 @@ disponibilidad_ISP  99.75% + ((1-99.75%)*95%) = 99.9875%
 AS = 99.6625%*99.9%*99.9999999%*99.9992%*99.6625%*99.9999%*99.9999999999%*99.9875%=99.2135165%
 ```
 ## Ejercicio 2
-*Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.*
+**Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.**
 - Como ejemplo, examina [PM2](https://github.com/Unitech/pm2) que sirve para administrar clústeres de NodeJS.
 
 Lenguaje            | Frameworks
 ----------------    |--------------
 [PHP][PHP]          | YII, thinkphp, CakePHP, codeigniter-CI
-[JavaScript][JAVA]  | JQuery, Bootstrap, AngularJS, Babel
+[JavaScript][JAVA]  | [jQuery], Bootstrap,  [AngularJS], Babel
 [Python][PYTHON]    | Django, TurboGears, web2py
 [NodeJS][NODE]	    | KOA, LOCOMOTIVE, PARTIA
 
 
 ## Ejercicio 3
-*¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor? Buscar herramientas y aprender a usarlas.*
+**¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor? Buscar herramientas y aprender a usarlas.**
 
-> - En **Linux** podemos usar el comando **top** que nos muestra, entre otras cosas, el uso de CPU y de memoria que están haciendo los procesos se están ejecutando en nuestra máquina. De una forma algo más sofisticada htop permite obtener una información similar. De modo que con estos dos programas por ejemplo podemos ver el porcentaje de CPU consumido.
+- En **Linux** podemos usar el comando **top** que nos muestra, entre otras cosas, el uso de CPU y de memoria que están haciendo los procesos se están ejecutando en nuestra máquina. De una forma algo más sofisticada htop permite obtener una información similar. De modo que con estos dos programas por ejemplo podemos ver el porcentaje de CPU consumido.
 
-> - **Gnome-system-monitor** es otra herramienta que, con un entorno gráfico, nos permite consultar información sobre algunos parámetros de carga de nuestra máquina.
+- **Gnome-system-monitor** es otra herramienta que, con un entorno gráfico, nos permite consultar información sobre algunos parámetros de carga de nuestra máquina.
 
-> - En **Windows** tenemos la herramienta **Performance Monitor** para obtener esta información con un entorno gráfico, además podemos extraer datos de ella de forma automática.
+- En **Windows** tenemos la herramienta **Performance Monitor** para obtener esta información con un entorno gráfico, además podemos extraer datos de ella de forma automática.
 
 - Muning 
 - Nagios
 - Zabbix
 
-*"Información obtenida de la asignatura Ing. Servidores"*
+*"Información obtenida del material de la asignatura ISE"*
    
 ## Ejercicio 4
-Buscar diferentes tipos de productos:
-1. Buscar ejemplos de balanceadores software y hardware (productos comerciales). 
+
+**Buscar diferentes tipos de productos:**
+**1. Buscar ejemplos de balanceadores software y hardware (productos comerciales).**
 
     - 
     - 
-2. Buscar productos comerciales para servidores de aplicaciones. 
-3. Buscar productos comerciales para servidores de almacenamiento.
+**2. Buscar productos comerciales para servidores de aplicaciones.** 
+**3. Buscar productos comerciales para servidores de almacenamiento.**
 4. 
 
 [PHP]:http://www.phpframeworks.com/
 [JAVA]:http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
 [PYTHON]:https://wiki.python.org/moin/WebFrameworks/
 [NODE]:http://nodeframework.com/
+[jQuery]: <http://jquery.com>
+[AngularJS]: <http://angularjs.org>
