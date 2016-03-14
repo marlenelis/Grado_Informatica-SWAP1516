@@ -66,8 +66,8 @@ Lenguaje            | Frameworks
 *"Información obtenida del material de la asignatura ISE"*
    
 ## Ejercicio 4
---------
 **Buscar diferentes tipos de productos:**
+
 **1. Buscar ejemplos de balanceadores software y hardware (productos comerciales).**
 
 
