@@ -66,15 +66,17 @@ Lenguaje            | Frameworks
 *"Información obtenida del material de la asignatura ISE"*
    
 ## Ejercicio 4
-
+--------
 **Buscar diferentes tipos de productos:**
 **1. Buscar ejemplos de balanceadores software y hardware (productos comerciales).**
+
 
     - 
     - 
 **2. Buscar productos comerciales para servidores de aplicaciones.** 
+
 **3. Buscar productos comerciales para servidores de almacenamiento.**
-4. 
+ 
 
 [PHP]:http://www.phpframeworks.com/
 [JAVA]:http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
