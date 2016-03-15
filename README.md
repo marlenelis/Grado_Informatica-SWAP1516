@@ -2,7 +2,7 @@
 
 ## Temario de teoría:
 - **Tema 1.** Introducción. [Ejercicios][1E], [Test][1T]
-- **Tema 2.** Alta disponibilidad y escalabilidad en servidores web. [Ejercicio][2E], [Test][2T]
+- **Tema 2.** Alta disponibilidad y escalabilidad en servidores web. [Ejercicios][2E], [Test][2T]
 - **Tema 3.** La red de	una granja web.
 - **Tema 4.** Balanceo de carga.
 - **Tema 5.** Medición de prestaciones.
