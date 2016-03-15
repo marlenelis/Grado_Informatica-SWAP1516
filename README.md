@@ -10,7 +10,6 @@
 - **Tema 7.** Almacenamiento de datos.
 - **Tema 8.** Hardware y software para servidores web.
 
--> centrado <-
 
 ## Temario de prácticas: 
 
