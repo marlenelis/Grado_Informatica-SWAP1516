@@ -9,7 +9,8 @@
 - **Tema 6.** Asegurar el sistema web.
 - **Tema 7.** Almacenamiento de datos.
 - **Tema 8.** Hardware y software para servidores web.
- ->centrado<-
+
+-> centrado <-
 
 ## Temario de prácticas: 
 
