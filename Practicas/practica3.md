@@ -27,15 +27,21 @@ $ apt-key add /tmp/nginx_signing.key
 $ rm -f /tmp/nginx_signing.key
 ```
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_2.jpg)
-- Añadir el repositorio al fichero /etc/apt/source.list
+
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_3.jpg)
+
+
+- Añadir el repositorio al fichero /etc/apt/source.list
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_4.jpg)
+
 - Instalar el paquete Nginx.
 ```sh
 $ apt-get update
 $ apt-get install nginx
 ```
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_4.jpg)
+
 
 #### 3. Configurar una máquina e instalarle el haproxy como balanceador de carga.
 
