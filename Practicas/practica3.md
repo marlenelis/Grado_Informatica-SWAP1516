@@ -36,7 +36,7 @@ $ rm -f /tmp/nginx_signing.key
 
 - Instalar el paquete Nginx.
 
-```c
+```sh
 $ apt-get update
 $ apt-get install nginx
 ```
