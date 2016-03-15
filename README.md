@@ -30,6 +30,5 @@
 
 [1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md
 [2P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_2.md
-
-[3P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica3.md
+[3P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_3.md
 
