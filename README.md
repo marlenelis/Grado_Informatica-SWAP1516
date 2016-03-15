@@ -9,7 +9,7 @@
 - **Tema 6.** Asegurar el sistema web.
 - **Tema 7.** Almacenamiento de datos.
 - **Tema 8.** Hardware y software para servidores web.
- 
+ ->centrado<-
 
 ## Temario de prácticas: 
 
@@ -31,5 +31,5 @@
 [1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md
 [2P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_2.md
 
-[3P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_3.md
+[3P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica3.md
 
