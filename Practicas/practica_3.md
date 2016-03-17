@@ -13,7 +13,8 @@ En esta práctica el objetivo es configurar las máquinas virtuales de forma que
 ## Resultados
 #### 1. Configurar una nueva máquina virtual sin Apache
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_1.jpg)
+<img src="../images/p3_1.jpg" alt="Logotipo" width="100px" height="100px">
+
 
 #### 2. Configurar una máquina e instalarle el nginx como balanceador de carga <img src="../images/nginx.png" alt="Logotipo" >
 ===============
