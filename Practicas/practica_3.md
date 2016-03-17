@@ -64,12 +64,25 @@ $ /etc/init.d/nginx restart
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_6.jpg)
 
-- Comprobando 
+- Comprobar el funcionamiento. 
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_7.jpg)
 
 
 #### 3. Configurar una máquina e instalarle el haproxy como balanceador de carga.
 
+- Instalar haproxy.
+```sh
+$ apt-get install haproxy
+```
+- Modificar el archivo /etc/haproxy/haproxy.cfg
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_9.jpg)
+
+- Comprobar el funcionamiento del balanceador.
+```sh
+$ apt-get install haproxy
+```
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_8.jpg)
 
 
