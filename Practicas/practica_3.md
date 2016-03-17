@@ -19,7 +19,7 @@ carga por software.
 
 #### 2. Configurar una máquina e instalarle el nginx como balanceador de carga
 #### Instalación de Niginx
-- importar la clave del repositorio software
+- Importar la clave del repositorio software
 ```sh
 $ cd /tmp/
 $ wget http://nginx.org/keys/nginx_signing.key
@@ -40,7 +40,31 @@ $ rm -f /tmp/nginx_signing.key
 $ apt-get update
 $ apt-get install nginx
 ```
+- Configurar Niginx
+   
+   > editar el fichero de configuración de nginx por defecto 
 
+     ```sh
+	vim /etc/nginx/conf.d/default.conf
+     ```
+  - Definir que máquinas forman parte del cluster web.
+  - indicar a nginx que use ese grupo a las cuales debe repartir el tráfico.
+
+*Contenido del fichero*
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_5.jpg)
+   
+- Una vez configurado lanzar el servicio nginx.
+```sh
+$ service nginx restart
+```
+**Este comando en mi caso no funciona**
+```sh
+$ /etc/init.d/nginx restart
+```
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_6.jpg)
+
+- Comprobando 
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_7.jpg)
 
 #### 3. Configurar una máquina e instalarle el haproxy como balanceador de carga.
 
