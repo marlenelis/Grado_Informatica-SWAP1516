@@ -51,16 +51,19 @@ $ apt-get install nginx
   - indicar a nginx que use ese grupo a las cuales debe repartir el tráfico.
 
 *Contenido del fichero*
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_5.jpg)
    
 - Una vez configurado lanzar el servicio nginx.
 ```sh
 $ service nginx restart
 ```
-**Este comando en mi caso no funciona**
+*La orden anterior, en mi caso no funciona, para lanzar el servicio lo realizo con la siguiente orden.*
+
 ```sh
 $ /etc/init.d/nginx restart
 ```
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_6.jpg)
 
 - Comprobando 
