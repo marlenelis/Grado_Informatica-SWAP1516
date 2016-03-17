@@ -58,7 +58,7 @@ $ apt-get install nginx
 ```sh
 $ service nginx restart
 ```
-*La orden anterior, en mi caso no funciona, para lanzar el servicio lo realizo con la siguiente orden.*
+*La orden anterior en mi caso no funciona, para lanzar el servicio lo realizo con la siguiente orden.*
 
 ```sh
 $ /etc/init.d/nginx restart
@@ -67,7 +67,9 @@ $ /etc/init.d/nginx restart
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_6.jpg)
 
 - Comprobando 
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_7.jpg)
+
 
 #### 3. Configurar una máquina e instalarle el haproxy como balanceador de carga.
 
