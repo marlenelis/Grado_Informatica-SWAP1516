@@ -17,8 +17,8 @@ En esta práctica el objetivo es configurar las máquinas virtuales de forma que
 
 
 #### 2. Configurar una máquina e instalarle el nginx como balanceador de carga.
-
-#### Instalación de  <img src="../images/nginx.png" alt="Logotipo">
+<img src="../images/nginx.png" alt="Logotipo">
+====================
 - Importar la clave del repositorio software
 ```sh
 $ cd /tmp/
@@ -71,9 +71,10 @@ $ /etc/init.d/nginx restart
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_7.jpg)
 
 
-#### 3. Configurar una máquina e instalarle el  <img src="../images/haproxy.png" alt="Logotipo" > como balanceador de carga.
+#### 3. Configurar una máquina e instalarle el haproxy como balanceador de carga.
 
-- Instalar haproxy.
+<img src="../images/haproxy.png" alt="Logotipo">
+=======================
 ```sh
 $ apt-get install haproxy
 ```
