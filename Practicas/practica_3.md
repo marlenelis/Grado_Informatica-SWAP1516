@@ -71,7 +71,7 @@ $ /etc/init.d/nginx restart
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_7.jpg)
 
 
-#### 3. Configurar una máquina e instalarle el haproxy como balanceador de carga. <img src="../images/haproxy.png" alt="Logotipo" >
+#### 3. Configurar una máquina e instalarle el  <img src="../images/haproxy.png" alt="Logotipo" > como balanceador de carga.
 
 - Instalar haproxy.
 ```sh
