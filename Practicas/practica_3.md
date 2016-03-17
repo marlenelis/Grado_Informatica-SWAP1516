@@ -1,10 +1,8 @@
-# Prráctica 3
+# Práctica 3
 
 ## Objetivo
 
-En esta práctica el objetivo es configurar las máquinas virtuales de forma que dos
-hagan de servidores web finales mientras que la tercera haga de balanceador de
-carga por software.
+En esta práctica el objetivo es configurar las máquinas virtuales de forma que dos  hagan de servidores web finales mientras que la tercera haga de balanceador de carga por software.
 
 ## Tareas a realizar
 
