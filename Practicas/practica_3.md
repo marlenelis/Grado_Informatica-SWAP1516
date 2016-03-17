@@ -16,7 +16,7 @@ En esta práctica el objetivo es configurar las máquinas virtuales de forma que
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_1.jpg)
 
 #### 2. Configurar una máquina e instalarle el nginx como balanceador de carga  
-<img src="./images/nginx.png" alt="Logotipo" width="50px" height="50px">
+<img src="../images/nginx.png" alt="Logotipo" width="50px" height="50px">
 ===============
 #### Instalación de Niginx 
 - Importar la clave del repositorio software
