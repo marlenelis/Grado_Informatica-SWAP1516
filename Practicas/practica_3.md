@@ -18,7 +18,7 @@ En esta práctica el objetivo es configurar las máquinas virtuales de forma que
 
 #### 2. Configurar una máquina e instalarle el nginx como balanceador de carga.
 
-#### Instalación de Niginx <img src="../images/nginx.png" alt="Logotipo">
+#### Instalación de  <img src="../images/nginx.png" alt="Logotipo">
 - Importar la clave del repositorio software
 ```sh
 $ cd /tmp/
