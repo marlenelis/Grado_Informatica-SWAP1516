@@ -16,7 +16,7 @@
 - [**Práctica 1.**][1P] Preparación de las herramientas. 
 - [**Práctica 2.**][2P] Clonar la información entre servidores.
 - [**Práctica 3.**][3P] Balanceo de carga.
-- **Práctica 4.** Comprobar el rendimiento de un servidor web.
+- [**Práctica 4.**][4P] Comprobar el rendimiento de un servidor web.
 - **Práctica 5.** Gestión de la base de datos del sistema web.
 - **Práctica 6.** Almacenamiento en RAID.
 
@@ -35,5 +35,6 @@
 [1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md
 [2P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_2.md
 [3P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_3.md
+[4P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_4.md
 
 
