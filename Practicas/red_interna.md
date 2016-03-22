@@ -1,4 +1,5 @@
-Configuración de la red interna VirtualBox
+## Configuración: Red Interna VirtualBox
+
 1. Añadir un adaptador de red a la máquina virtual
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/config-red-interna.jpg)
