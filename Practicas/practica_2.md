@@ -12,7 +12,7 @@ Hay que llevar a cabo las siguientes tareas:
 
 ####Resultados
 
-Antes de empezar a resolver las cuestiones propuestas debemos configurar la red interna de las máquinas virtuales  [Configuracion de red virtualbox](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/red_interna.md) 
+Antes de empezar a resolver las cuestiones propuestas debemos configurar la red interna de las máquinas virtuales  [Configuracion en virtualbox](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/red_interna.md) 
 
 - Copia de archivos por ssh
 
