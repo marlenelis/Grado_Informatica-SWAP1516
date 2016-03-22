@@ -21,6 +21,7 @@ broadcast 192.168.1.255
 ````
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/config-red-interna1.jpg)
+
 3. Reiniciar el sistema para que se actualize la configuración.
 
 
