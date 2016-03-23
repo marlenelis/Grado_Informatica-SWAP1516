@@ -56,6 +56,10 @@ siege.conf
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_8.jpg)
 
+- Graficos
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab1.jpg)
+
 #### seige
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_2.jpg)
@@ -69,6 +73,12 @@ siege.conf
 - Media
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_7.jpg)
+
+- Gráficos
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_seige.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_seige1.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_seige2.jpg)
 
 
 [tabla]:https://docs.google.com/spreadsheets/d/1TM30ZFnYA6Yj4I-MeIlKWQIbzIzJky37a6YdDkl9Y_w/edit?usp=sharing
