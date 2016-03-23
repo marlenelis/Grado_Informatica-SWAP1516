@@ -16,7 +16,6 @@ Puesto que en la práctica anterior usamos dos programas diferentes para hacer e
 
 Se harán un *mínimo* de 10 mediciones para obtener media y desviación estándar con cada métrica recogida y se mostrarán los resultados en forma de tabla y gráficas para comparar los resultados obtenidos con las tres configuraciones.
 
-Para conseguir una mayor nota en esta práctica se propone buscar alguna otra herramienta para medir las prestaciones y utilizarla tanto con la máquina individual como con la granja web. Podemos usar cualquier herramienta de las comentadas al principio, o bien otra que encontremos o conozcamos.
 ## Configuración 
 
 La máquina independiente tiene la siguiente configuración.
