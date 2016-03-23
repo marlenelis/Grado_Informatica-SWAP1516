@@ -1,7 +1,7 @@
 # Ejercicios Tema 3
 
-- [Ejercicio 1](#ejercicio-t3.1)
-- [Ejercicio 2](#ejercicio-t3.2)
+- [Ejercicio 1](#ejercicio-t31)
+- [Ejercicio 2](#ejercicio-t32)
 
 ### Ejercicio T3.1 
 
