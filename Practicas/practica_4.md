@@ -48,8 +48,8 @@ siege.conf
 
 [Datos][tabla]
 
-#### ab
-
+###ab
+________________________________
 
 - Muestras
 
@@ -64,8 +64,8 @@ siege.conf
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab.jpg)
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab1.jpg)
 
-#### seige
-
+###Seige
+______________________________
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_2.jpg)
 
 - Muestras
