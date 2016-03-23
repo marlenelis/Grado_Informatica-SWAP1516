@@ -70,13 +70,53 @@ Lenguaje            | Frameworks
 
 **1. Buscar ejemplos de balanceadores software y hardware (productos comerciales).**
 
+  - Balanceadores software:
 
-    - 
-    - 
+    - [Pound](http://www.apsis.ch/pound)
+    - [Niginx](http://wiki.nginx.org/NginxEs)
+    - [HaProxy](http://www.haproxy.org/)
+    - [Zen Load Balancer](http://www.zenloadbalancer.com/)
+    - Linux virtual server (LVS)
+    - [Ultra Monkey](http://www.ultramonkey.org/)
+
+  - Balanceadores Hardware:
+ 
+    - Cisco tiene una gran gama de balanceadores. 
+    - AppDirector OnDemand de la compañía Radware.
+    - Load Balancer ADC de Barracuda.
+    - Serie BIG-IP de F5.
+
 **2. Buscar productos comerciales para servidores de aplicaciones.** 
 
+  - Servidores de aplicaciones Java EE:
+
+     - WebLogic de Oracle.
+     - WebSphere de IBM.
+     - JBoss AS de JBoss (RedHat).
+     - Geronimo y TomEE de Apache.
+     - GlassFish de Oracle
+
+  - Otros servidores de aplicación:
+
+     - Internet Information Server, de Microsoft, para .NET
+     - Base4 Server.
+     - Zope.
+
 **3. Buscar productos comerciales para servidores de almacenamiento.**
- 
+   - [Servidores NAS](http://qloudea.com/servidor-nas)
+
+
+
+*** Referencias
+
+- https://es.wikipedia.org/wiki/Servidor_de_aplicaciones
+- http://www.phpframeworks.com/
+- https://wiki.python.org/moin/WebFrameworks/
+-http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+- http://angularjs.org
+- http://nodeframework.com/
+- http://jquery.com
+-http://www.tecnozero.com/blog2/servidor-nas-almacenamiento-en-red/
 
 [PHP]:http://www.phpframeworks.com/
 [JAVA]:http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
