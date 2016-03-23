@@ -60,6 +60,7 @@ siege.conf
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_8.jpg)
 
 - Graficos
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab.jpg)
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab1.jpg)
 
