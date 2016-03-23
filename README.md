@@ -19,6 +19,8 @@
 - [**Práctica 4.**][4P] Comprobar el rendimiento de un servidor web.
 - **Práctica 5.** Gestión de la base de datos del sistema web.
 - **Práctica 6.** Almacenamiento en RAID.
+________________
+ [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [//]:(Ejercicios)
 [1E]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Ejercicio_1.md 
