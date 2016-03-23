@@ -67,6 +67,8 @@ siege.conf
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_6.jpg)
 
 - Media
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_7.jpg)
+
 
 [tabla]:https://docs.google.com/spreadsheets/d/1TM30ZFnYA6Yj4I-MeIlKWQIbzIzJky37a6YdDkl9Y_w/edit?usp=sharing
