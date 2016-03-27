@@ -42,12 +42,14 @@ siege.conf
 
 Como herramienta opcional he elegido [OpenWebLoad](http://openwebload.sourceforge.net/)
 descargamos el fichero y procedemos a la instalación como nos indica en su página oficial.
-`nota: durante la instalación me surgió un error, el cual se soluciona borrando lo que se muestra en la imagen`
+`nota: durante la instalación me surgió un error, el cual se soluciona borrando lo que se muestra en la imagen.
+
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_W_d.jpg)
 
 ##Resultados
 
 [Datos][tabla]
+
 [script](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/auto.sh)
 
 ###ab
