@@ -84,7 +84,7 @@ $ apt-get install haproxy
 
 - Comprobar el funcionamiento del balanceador.
 ```sh
-$ /usr/bin/haproxy -f /etc/haproxy/haproxy.cfg
+$ /usr/sbin/haproxy -f /etc/haproxy/haproxy.cfg
 ```
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_8.jpg)
 

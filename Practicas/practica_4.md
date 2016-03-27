@@ -18,11 +18,8 @@ Se harán un *mínimo* de 10 mediciones para obtener media y desviación estánd
 
 ## Configuración 
 
-La máquina independiente tiene la siguiente configuración.
+Para  comprobar el rendimiento de la granja web  se usa las siguientes herramientas.
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_1.jpg)
-
-Para  comprobar el rendimiento de la granja web  se usara las siguientes herramientas.
 - Apache Benchmark
 - Siege
 
@@ -33,7 +30,7 @@ Procedo a la instalación de Apache Benchmark.
 $ sudo apt-get install apache2-utils
 ````
 
-a continuación procedo con la instalación de Seige
+a continuación procedo con la instalación de Siege
 
 ````sh
 $ sudo apt-get install siege
@@ -51,38 +48,41 @@ siege.conf
 ###ab
 ________________________________
 
-- Muestras
-
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_9.jpg)
-
-- Media
-
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_8.jpg)
-
-- Graficos
-
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab.jpg)
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab1.jpg)
-
-###Seige
-______________________________
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_2.jpg)
+````sh
+$ ab -n 1000 -c 5 http://ip-máquina/prueba
+````
 
 - Muestras
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_4.jpg)
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_5.jpg)
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_6.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_9_1.jpg)
 
 - Media
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_7.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_8_1.jpg)
 
 - Gráficos
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_seige.jpg) 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_seige1.jpg) 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_seige2.jpg) 
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab_g.jpg)
+
+###Siege
+______________________________
+
+````sh
+$ siege -b -t60S -v http://ip-máquina/prueba
+````
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_3.jpg)
+
+- Muestras
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_4_s.jpg)
+
+- Media
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_7_1.jpg)
+
+- Gráficos
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_s_g.jpg) 
 
 
 [tabla]:https://docs.google.com/spreadsheets/d/1TM30ZFnYA6Yj4I-MeIlKWQIbzIzJky37a6YdDkl9Y_w/edit?usp=sharing
