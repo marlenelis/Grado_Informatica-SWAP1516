@@ -100,15 +100,15 @@ openload -l 30 http://ip-máquina/prueba.html 5
 
 se realiza durante un período de tiempo de 30 seg. y simula 5 clientes simultáneos.
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_OWL_1_g.jpg) 
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_OWL_1.jpg) 
 
 - Muestras
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4__OWL_2.jpg) 
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_OWL_2.jpg) 
 
 - Media
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4__OWL_3.jpg) 
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_OWL_3.jpg) 
 
 - Gráficos
 
