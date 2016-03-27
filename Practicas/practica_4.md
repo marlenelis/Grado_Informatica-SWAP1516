@@ -22,7 +22,7 @@ Para  comprobar el rendimiento de la granja web  se usa las siguientes herramien
 
 - Apache Benchmark
 - Siege
-
+- OpenWebLoad
 
 Procedo a la instalación de Apache Benchmark.
 
@@ -30,26 +30,31 @@ Procedo a la instalación de Apache Benchmark.
 $ sudo apt-get install apache2-utils
 ````
 
-a continuación procedo con la instalación de Siege
+a continuación procedo con la instalación de Siege y generación del archivo de configuración
 
 ````sh
 $ sudo apt-get install siege
 ````
-generación del archivo de configuración
 
 ````sh
 siege.conf
 ````
 
+Como herramienta opcional he elegido [OpenWebLoad](http://openwebload.sourceforge.net/)
+descargamos el fichero y procedemos a la instalación como nos indica en su página oficial.
+`nota: durante la instalación me surgió un error, el cual se soluciona borreando la referencia a la clase como se muestra en la imagen`
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_W_d.jpg)
+
 ##Resultados
 
 [Datos][tabla]
+[script](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/auto.sh)
 
 ###ab
 ________________________________
 
 ````sh
-$ ab -n 1000 -c 5 http://ip-máquina/prueba
+$ ab -n 1000 -c 5 http://ip-máquina/prueba.html
 ````
 
 - Muestras
@@ -68,7 +73,7 @@ $ ab -n 1000 -c 5 http://ip-máquina/prueba
 ______________________________
 
 ````sh
-$ siege -b -t60S -v http://ip-máquina/prueba
+$ siege -b -t60S -v http://ip-máquina/prueba.html
 ````
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_3.jpg)
 
@@ -84,5 +89,31 @@ $ siege -b -t60S -v http://ip-máquina/prueba
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_s_g.jpg) 
 
+###OpenWebLoad
+_____________________________________________
+
+````sh
+openload -l 30 http://ip-máquina/prueba.html 5 
+````
+
+se realiza durante un período de tiempo de 30 seg. y simula 5 clientes simultáneos.
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_OWL_1_g.jpg) 
+
+- Muestras
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4__OWL_2.jpg) 
+
+- Media
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4__OWL_3.jpg) 
+
+- Gráficos
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_OWL.jpg) 
 
 [tabla]:https://docs.google.com/spreadsheets/d/1TM30ZFnYA6Yj4I-MeIlKWQIbzIzJky37a6YdDkl9Y_w/edit?usp=sharing
+
+
+
+
