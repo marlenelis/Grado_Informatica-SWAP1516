@@ -74,7 +74,7 @@ $ siege -b -t60S -v http://ip-máquina/prueba
 
 - Muestras
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_4_s.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_s.jpg)
 
 - Media
 
