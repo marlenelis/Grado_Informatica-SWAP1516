@@ -38,7 +38,8 @@ $ sudo apt-get install siege
 $ siege.conf
 ````
 
-Como herramienta opcional he elegido **OpenWebLoad**.
+Como herramienta opcional he elegido **OpenWebLoad**. 
+
 Procedo a descargar e instalar OpenWebLoad como nos indica en su [página oficial](http://openwebload.sourceforge.net/).
 
 `nota: durante la instalación me surgió un error, el cual se soluciona borrando del fichero tmplchunk.h la referencia a la clase, como se muestra en la imagen.`
