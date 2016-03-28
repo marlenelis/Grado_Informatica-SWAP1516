@@ -30,25 +30,25 @@ Procedo a la instalación de Apache Benchmark.
 $ sudo apt-get install apache2-utils
 ````
 
-a continuación procedo con la instalación de Siege y generación del archivo de configuración
+a continuación procedo con la instalación de Siege y la generación del archivo de configuración.
 
 ````sh
 $ sudo apt-get install siege
+
+$ siege.conf
 ````
 
-````sh
-siege.conf
-````
+Como herramienta opcional he elegido **OpenWebLoad**.
+Procedo a descargar e instalar OpenWebLoad como nos indica en su [página oficial](http://openwebload.sourceforge.net/).
 
-Como herramienta opcional he elegido [OpenWebLoad](http://openwebload.sourceforge.net/)
-descargamos el fichero y procedemos a la instalación como nos indica en su página oficial.
-`nota: durante la instalación me surgió un error, el cual se soluciona borrando lo que se muestra en la imagen.`
+`nota: durante la instalación me surgió un error, el cual se soluciona borrando del fichero tmplchunk.h la referencia a la clase, como se muestra en la imagen.`
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_W_d.jpg)
 
 ##Resultados
 
-[Datos][tabla]
+
+[Documento][tabla]
 
 [script](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/auto.sh)
 
@@ -118,7 +118,6 @@ se realiza durante un período de tiempo de 30 seg. y simula 5 clientes simultá
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_OWL.jpg) 
 
 [tabla]:https://docs.google.com/spreadsheets/d/1TM30ZFnYA6Yj4I-MeIlKWQIbzIzJky37a6YdDkl9Y_w/edit?usp=sharing
-
 
 
 
