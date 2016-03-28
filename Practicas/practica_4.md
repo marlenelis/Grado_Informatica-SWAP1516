@@ -71,6 +71,7 @@ $ ab -n 1000 -c 5 http://ip-máquina/prueba.html
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_ab_g.jpg)
 
+
 ###Siege
 ______________________________
 
@@ -90,6 +91,8 @@ $ siege -b -t60S -v http://ip-máquina/prueba.html
 - Gráficos
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_s_g.jpg) 
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p4_s1_g.jpg)
 
 ###OpenWebLoad
 _____________________________________________
