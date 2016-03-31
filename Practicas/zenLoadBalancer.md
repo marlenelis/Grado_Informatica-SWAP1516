@@ -2,7 +2,7 @@
 
 ###Instalación
 
-- Descargar el instalador desde su [página oficial](http://www.zenloadbalancer.com/community/downloads/)
+- Descargar el instalador desde su [página oficial](http://www.zenloadbalancer.com/community/downloads/) 
 
 ####Proceso de Instalación 
 
@@ -10,7 +10,6 @@
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_Zen1.jpg)
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_Zen2.jpg)
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p3_Zen3.jpg)
 
@@ -20,13 +19,18 @@
 
 ###Configuración
 
+- [Guia de configuración](http://www.zenloadbalancer.com/zlb-administration-guide-v304/)
+
+- A continuación la configuración que he realizado.
+
 - [Configurar](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/red_interna.md) la maquina virtual para que las máquinas que forman parte de la granja web se comuniquen.
 
 - Comprobación de la comunicación entre las máquinas.
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_ping.jpg)
 
-- Procedemos a configurar el balanceador, es necesario realizarlo desde un navegador para acceder a la interfaz que proporciona Zen Load Balancer a trávez de la dirección `https:/ip-máquina:444`. `nombre de usuario: admin`  `contraseña: admin`.
+- Procedo a la configurar del balanceador, para lo cual es necesario realizarlo desde un navegador para acceder a la interfaz que proporciona Zen Load Balancer a trávez de la dirección `https:/ip-máquina:444`. `nombre de usuario: admin`  `contraseña: admin`. 
+
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_1.jpg)
 _____________
