@@ -21,7 +21,7 @@
 
 - [Guia de configuración](http://www.zenloadbalancer.com/zlb-administration-guide-v304/)
 
-- A continuación la configuración que he realizado.
+A continuación la configuración que he realizado.
 
 - [Configurar](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/red_interna.md) la maquina virtual para que las máquinas que forman parte de la granja web se comuniquen.
 
