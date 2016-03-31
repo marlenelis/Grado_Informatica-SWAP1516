@@ -30,11 +30,11 @@
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_1.jpg)
 
-<img src="../images/zlb_4" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_5" alt="Zen Load Balancer" width="60%" height="60%">
+<img src="../images/zlb_4.jpg" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_5.jpg" alt="Zen Load Balancer" width="60%" height="60%">
 
-<img src="../images/zlb_9" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_11" alt="Zen Load Balancer" width="60%" height="60%">
+<img src="../images/zlb_9.jpg" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_11.jpg" alt="Zen Load Balancer" width="60%" height="60%">
 
-<img src="../images/zlb_12" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_13" alt="Zen Load Balancer" width="60%" height="60%">
+<img src="../images/zlb_12.jpg" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_13.jpg" alt="Zen Load Balancer" width="60%" height="60%">
 
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_14.jpg)
