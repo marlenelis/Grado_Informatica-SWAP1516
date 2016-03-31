@@ -30,7 +30,7 @@
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_1.jpg)
 
-<img src="../images/zlb_4.jpg" alt="Zen Load Balancer" width="70%" height="50%"><img src="../images/zlb_5.jpg" alt="Zen Load Balancer" width="60%" height="60%">
+<img src="../images/zlb_4.jpg" alt="Zen Load Balancer" width="50%" height="80%"><img src="../images/zlb_5.jpg" alt="Zen Load Balancer" width="60%" height="60%">
 
 <img src="../images/zlb_9.jpg" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_11.jpg" alt="Zen Load Balancer" width="60%" height="60%">
 
