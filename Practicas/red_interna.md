@@ -22,7 +22,7 @@ broadcast 192.168.1.255
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/config-red-interna1.jpg)
 
-3. Reiniciar el sistema para que se actualize la configuración.
+3. Reiniciar el sistema o escribir en el terminal `/etc/init.d/networking restart` para que se actualize la configuración.
 
 
 4. Comprobar los cambios

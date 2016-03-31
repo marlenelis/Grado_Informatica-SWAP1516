@@ -9,7 +9,7 @@ En esta práctica el objetivo es configurar las máquinas virtuales de forma que
 1. Configurar una nueva máquina virtual sin Apache.
 2. Configurar una máquina e instalarle el nginx como balanceador de carga.
 3. Configurar una máquina e instalarle el haproxy como balanceador de carga.
-
+4. Configuración del [balanceador opcional]()
 ## Resultados
 #### 1. Configurar una nueva máquina virtual sin Apache
 
