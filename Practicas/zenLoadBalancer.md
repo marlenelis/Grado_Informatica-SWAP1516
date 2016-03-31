@@ -26,23 +26,16 @@
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_ping.jpg)
 
-- Procedemos a configurar el balanceador, es necesario realizarlo desde un navegador para acceder a la interfaz que proporciona Zen Load Balancer a trávez de la dirección `https:/ip-máquina:444`. nombre de usuario `admin` contraseña `admin`.
+- Procedemos a configurar el balanceador, es necesario realizarlo desde un navegador para acceder a la interfaz que proporciona Zen Load Balancer a trávez de la dirección `https:/ip-máquina:444`. `nombre de usuario: admin`  `contraseña: admin`.
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_1.jpg)
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_4.jpg)
+<img src="../images/zlb_4" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_5" alt="Zen Load Balancer" width="60%" height="60%">
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_5.jpg)
+<img src="../images/zlb_9" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_11" alt="Zen Load Balancer" width="60%" height="60%">
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_7.jpg)
+<img src="../images/zlb_12" alt="Zen Load Balancer" width="60%" height="60%"><img src="../images/zlb_13" alt="Zen Load Balancer" width="60%" height="60%">
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_9.jpg)
-
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_11.jpg)
-
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_12.jpg)
-
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_13.jpg)
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/zlb_14.jpg)
 
