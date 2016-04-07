@@ -23,7 +23,7 @@
 
 A continuación la configuración que he realizado.
 
-- [Configurar](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/red_interna.md) la maquina virtual para que las máquinas que forman parte de la granja web se comuniquen.
+- [Configurar la máquina virtual](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/red_interna.md).
 
 - Comprobación de la comunicación entre las máquinas.
 
