@@ -24,9 +24,9 @@ Adicionalmente, y como [tarea opcional]() se propone realizar la configuración 
 
 Para crear la base de datos e insertar datos, accedo a la interfaz de línea de comandos MYSQL.
 
-	```
-	mysql -uroot -p 
-	```
+```
+mysql -uroot -p 
+```
 
 - crear la base de datos `contactos`.
 
