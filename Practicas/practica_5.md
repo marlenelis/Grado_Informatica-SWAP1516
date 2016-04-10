@@ -1,6 +1,8 @@
 
 
-# Práctica Nº 5. Replicación de bases de datos MySQL
+# Práctica Nº 5. 
+
+#Replicación de bases de datos MySQL
 
 
 ## Objetivo
