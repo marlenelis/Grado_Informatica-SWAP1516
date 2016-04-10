@@ -112,7 +112,44 @@ mysql> quit
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_4.jpg)
 
-##### Realizar la configuración maestro-esclavo de los servidores MySQL para que la replicación de datos se realice automáticamente.
+#####Realizar la configuración maestro-esclavo de los servidores MySQL para que la replicación de datos se realice automáticamente.
+
+
+- consultar la version de mysql.
+
+	````
+	mysql --version
+	````
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_6.jpg)
+
+- editar el fichero de configuración en las dos máquinas servidoras.
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_7.jpg)
+
+- crear el usuario esclavo en la máquina MASTER (servidor 1).
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_8.jpg)
+
+- añadir los datos del MASTER en la máquina SLAVE
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_11.jpg)
+
+- iniciar el esclavo en la máquina SLAVE (servidor 2).
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_9.jpg)
+
+- comprobando que no hay errores.
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_12.jpg)
+
+- comprobando que se realiza la replica correctamente.
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_13.jpg)
+
+
+
+
 
 
 
