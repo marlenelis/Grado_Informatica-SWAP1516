@@ -1,9 +1,18 @@
 <pregunta>
-  <enunciado>enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
-  <solucion>C</solucion>
+    <enunciado>¿Qué tipo de escalado o ampliación consiste el incrementar la RAM, la CPU y el disco de un servidor?</enunciado>
+    <opcionA>Ampliación frontal</opcionA>
+    <opcionB>Ampliación horizontal</opcionB>
+    <opcionC>Ampliación Horizontal y frontal</opcionC>
+    <opcionD>Ampliación vertical</opcionD>
+    <solucion>D</solucion>
 </pregunta>
 
+
+<pregunta>
+    <enunciado>El balanceador de carga....</enunciado>
+    <opcionA>Hace que todas las peticiones pasen por todos los servidores.</opcionA>
+    <opcionB>Pasa peticiones a los servidores según el tráfico de la red.</opcionB>
+    <opcionC>Selecciona el servidor más ocupado y lo reinicia.</opcionC>
+    <opcionD>Siempre selecciona según el mismo algoritmo: Por prioridad.</opcionD>
+    <solucion>B</solucion>
+</pregunta>

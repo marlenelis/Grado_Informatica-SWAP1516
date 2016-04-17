@@ -1,0 +1,18 @@
+<pregunta>
+    <enunciado> Al configurar una zona segura ¿cómo se comunican los backbones?</enunciado>
+    <opcionA>Con un cortafuegos.</opcionA>
+    <opcionB>Con una tarjeta de red.</opcionB>
+    <opcionC>Configurando servidores con doble tarjeta de red.</opcionC>
+    <opcionD>A y C son correctas</opcionD>
+    <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+    <enunciado>¿Qué servicio no se ofrece por el front-rail?</enunciado>
+    <opcionA>HTTP</opcionA>
+    <opcionB>SMTP</opcionB>
+    <opcionC>Bases de datos</opcionC>
+    <opcionD>POP3</opcionD>
+    <solucion>C</solucion>
+</pregunta>

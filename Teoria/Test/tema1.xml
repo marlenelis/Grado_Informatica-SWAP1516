@@ -1,8 +1,19 @@
 <pregunta>
-  <enunciado>enunciado</enunciado>
-  <opcionA>primera opcion</opcionA>
-  <opcionB>segunda opcion</opcionB>
-  <opcionC>tercera opcion</opcionC>
-  <opcionD>cuarta opcion</opcionD>
+  <enunciado>¿Qué elementos hardware son los que suelen fallar primero ante un incremento de uso en el servidor?</enunciado>
+  <opcionA>Tarjetas gráficas y fuentes de alimentación.</opcionA>
+  <opcionB>Ratones y discos duros.</opcionB>
+  <opcionC>Fuentes de alimentación y discos duros.</opcionC>
+  <opcionD>Teclados y ratones.</opcionD>
   <solucion>C</solucion>
 </pregunta>
+
+ 
+<pregunta>
+  <enunciado>¿Qué es una granja web?</enunciado>
+  <opcionA>Una granja web es un conjunto de servidores dedicados a servir contenido web a los usuarios finales.</opcionA>
+  <opcionB>Una granja web es un solo servidor con diferentes maquinas virtuales instanciadas.</opcionB>
+  <opcionC>Son sistemas muy complejos pero sumamente flexibles y funcionales.</opcionC>
+  <opcionD>A y C son correctas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
