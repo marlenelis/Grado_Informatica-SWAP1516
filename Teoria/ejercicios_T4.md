@@ -8,7 +8,7 @@ author: Marlene Vásquez
 ####Ejercicio T4.1:
 **Buscar información sobre cuánto costaría en la actualidad un mainframe. Comparar precio y potencia entre esa máquina y una granja web de unas prestaciones similares.**
 
-Me ha resultado complicado realizar comparaciones de especificiones y precios ya que los fabricantes no los exponen de forma pública.
+Me ha resultado complicado realizar comparaciones de especificaciones y precios ya que los fabricantes no los exponen de forma pública.
 
 ####Ejercicio T4.2:
 **Buscar información sobre precio y características de balanceadores hardware específicos. Compara las prestaciones que ofrecen unos y otros.**
