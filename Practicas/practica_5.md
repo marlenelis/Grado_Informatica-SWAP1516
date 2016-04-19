@@ -155,7 +155,7 @@ mysql> quit
 **Configuración maestro-maestro**
 
 Para realizar esta configuración, he realizado los pasos de la configuración maestro-esclavo pero en sentido inverso.
-- 
+
 	- El servidor 1 lo configuro como esclavo
 	- El servidor 2 lo configuro como maestro
 
