@@ -18,7 +18,7 @@
 	- Restaurar dicha copia en la segunda máquina (clonado manual de la BD).
 	- Realizar la configuración maestro-esclavo de los servidores MySQL para que la replicación de datos se realice automáticamente.
 
-Adicionalmente, y como [tarea opcional]() se propone realizar la configuración maestro-maestro entre las dos máquinas de bases de datos.
+Adicionalmente, y como [tarea opcional](#tarea-opcional) se propone realizar la configuración maestro-maestro entre las dos máquinas de bases de datos.
 
 ### Resultados
 
@@ -141,15 +141,49 @@ mysql> quit
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_9.jpg)
 
-- comprobando que no hay errores.
+- comprobación de que no hay errores.
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_12.jpg)
 
-- comprobando que se realiza la replica correctamente.
+- comprobación de que se realiza la replica correctamente.
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_13.jpg)
 
 
+###Tarea opcional 
+
+**Configuración maestro-maestro**
+
+Para realizar esta configuración, he realizado los pasos de la configuración maestro-esclavo pero en sentido inverso.
+- 
+	- El servidor 1 lo configuro como esclavo
+	- El servidor 2 lo configuro como maestro
+
+- editar el fichero de configuración '/etc/mysql/my.cnf'
+
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_14.jpg)
+
+
+- crear el esclavo en el MASTER (servidor 2)
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_15.jpg)
+
+- añadir los datos del MASTER en la máquina SLAVE
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_15.jpg)
+
+- iniciar el esclavo en la máquina SLAVE (servidor 1).
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_16.jpg)
+
+- comprobación de que no hay errores.
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_17.jpg)
+
+- comprobación de que se realiza la replica correctamente.
+
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_18.jpg)
 
 
 
