@@ -4,7 +4,7 @@
 - **Tema 1.** Introducción. [Ejercicios][1E], [Test][1T]
 - **Tema 2.** Alta disponibilidad y escalabilidad en servidores web. [Ejercicios][2E], [Test][2T]
 - **Tema 3.** La red de	una granja web.[Ejercicios][3E], [Test][3T]
-- **Tema 4.** Balanceo de carga.
+- **Tema 4.** Balanceo de carga. [Ejercicios][4E], [Test][4T] 
 - **Tema 5.** Medición de prestaciones.
 - **Tema 6.** Asegurar el sistema web.
 - **Tema 7.** Almacenamiento de datos.
@@ -28,12 +28,15 @@ ________________
 [1E]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Ejercicio_1.md 
 [2E]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicios_T2.md
 [3E]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicios_T3.md
+[4E]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/ejercicios_T4.md
 
 
 [//]:#(Preguntas)
 [1T]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Test/tema1.xml 
 [2T]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Test/tema2.xml 
-[3T]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Test/tema2.xml
+[3T]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Test/tema3.xml
+[4T]:https://github.com/marlenelis/SWAP1516/blob/master/Teoria/Test/tema4.xml
+
 
 [//]:#(Prácticas)
 [1P]:https://github.com/marlenelis/SWAP1516/blob/master/Practicas/practica_1.md
