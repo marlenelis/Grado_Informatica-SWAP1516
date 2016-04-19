@@ -171,11 +171,11 @@ Para realizar esta configuración, he realizado los pasos de la configuración m
 
 - añadir los datos del MASTER en la máquina SLAVE
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_15.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_16.jpg)
 
 - iniciar el esclavo en la máquina SLAVE (servidor 1).
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_16.jpg)
+	`mysql> START SLAVE;`
 
 - comprobación de que no hay errores.
 
