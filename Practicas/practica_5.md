@@ -159,7 +159,7 @@ Para realizar esta configuración, he realizado los pasos de la configuración m
 	- El servidor 1 lo configuro como esclavo
 	- El servidor 2 lo configuro como maestro
 
-- editar el fichero de configuración '/etc/mysql/my.cnf'
+- editar el fichero de configuración `/etc/mysql/my.cnf`
 
 
 ![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/p5_bd_14.jpg)
