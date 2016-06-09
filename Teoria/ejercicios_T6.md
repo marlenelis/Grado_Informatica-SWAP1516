@@ -29,7 +29,7 @@ iptables -I INPUT -j ACCEPT
 ### Ejercicio T6.2:
 #### Comprobar qué puertos tienen abiertos nuestras máquinas,su estado, y qué programa o demonio lo ocupa.
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/T6_1.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/t6_3.jpg)
 
 ### Ejercicio T6.3:
 #### Buscar información acerca de los tipos de ataques más comunes en servidores web, en qué consisten, y cómo se pueden evitar.

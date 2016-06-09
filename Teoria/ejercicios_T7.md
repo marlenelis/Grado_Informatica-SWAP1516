@@ -50,7 +50,7 @@ sudo nano /etc/exports
 // añadimos al final
 /directorio a compartir/ máquina1(opcion1,opcion2,...) máquina2(opcion1,opcion2,...) 
 ```
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/T7_nfs.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/t7_nfs.jpg)
 
 - iniciar el servicio
 
@@ -72,8 +72,8 @@ sudo mount maquinaServidorNFS:/COMPARTIR /COMPARTIR
 df -h 
 ```
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/T7_nfs_1.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/t7_nfs_1.jpg)
 
 -  Comprobamos los permisos de lectura y escritura
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/T7_nfs_2.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/t7_nfs_2.jpg)
