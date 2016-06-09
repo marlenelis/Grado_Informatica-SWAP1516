@@ -1,0 +1,18 @@
+<pregunta>
+    <enunciado> Balanceador de carga ...</enunciado>
+    <opcionA>Es un puente entre la red y los servidores finales.</opcionA>
+    <opcionB>Puede manejar los protocolos de alto nivel.</opcionB>
+    <opcionC>Puede manejar los protocolos de nivel de red.</opcionC>
+    <opcionD>Todas son correctas.</opcionD>
+    <solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+    <enunciado>¿Qué tipo de balanceo evita la pérdida de tiempo en las máquinas más lentas?</enunciado>
+    <opcionA>Algoritmo de balanceo basado en turnos.</opcionA>
+    <opcionB>Algoritmo de balanceo basado en el menor número de conexiones.</opcionB>
+    <opcionC>Algoritmo de balanceo basado en tiempo de respuesta.</opcionC>
+    <opcionD>Algoritmo de balanceo basado en ponderación.</opcionD>    
+    <solucion>D</solucion>
+</pregunta>
