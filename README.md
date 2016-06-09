@@ -5,9 +5,9 @@
 - **Tema 2.** Alta disponibilidad y escalabilidad en servidores web. [Ejercicios][2E], [Test][2T]
 - **Tema 3.** La red de	una granja web.[Ejercicios][3E], [Test][3T]
 - **Tema 4.** Balanceo de carga. [Ejercicios][4E], [Test][4T] 
-- **Tema 5.** Medición de prestaciones. [Ejercicios][5E], [Test][5T] 
-- **Tema 6.** Asegurar el sistema web. [Ejercicios][6E], [Test][6T] 
-- **Tema 7.** Almacenamiento de datos. [Ejercicios][7E], [Test][7T] 
+- **Tema 5.** Medición de prestaciones. [Ejercicios][5E]
+- **Tema 6.** Asegurar el sistema web. [Ejercicios][6E]
+- **Tema 7.** Almacenamiento de datos. [Ejercicios][7E] 
 - **Tema 8.** Hardware y software para servidores web.
 
 
