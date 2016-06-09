@@ -43,7 +43,7 @@ Algunos sistemas de ficheros de red son SMB (microsoft), NFS (unix), AFP (apple)
 ```
 sudo apt-get install nfs-kernel-server
 ```
-- Editar el fichero </etc/exports>
+- Editar el fichero `/etc/exports>`
 
 ```
 sudo nano /etc/exports

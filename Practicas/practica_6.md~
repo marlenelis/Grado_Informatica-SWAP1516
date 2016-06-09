@@ -114,7 +114,7 @@ sudo mdadm --manage --add /dev/md127 /dev/sdb
 
 - opcional 
 
-<nota:> esta configuracion la realicé con otras máquinas virtuales con SO ubuntu server 16.04, ya que no logré solucionar lo de instalar el servidor nfs en el servidor que contiene el raid.
+<nota> esta configuración la realicé con otras máquinas virtuales con SO ubuntu server 16.04, ya que no logré solucionar lo de instalar el servidor nfs en el servidor que contiene el raid.
  
 
 - Instalar el servidor nfs
@@ -129,7 +129,7 @@ sudo nano /etc/exports
 // añadimos al final
 /directorio a compartir/ máquina1(opcion1,opcion2,...) máquina2(opcion1,opcion2,...) 
 ```
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/T7_nfs.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/t7_nfs.jpg)
 
 - iniciar el servicio
 
@@ -151,11 +151,11 @@ sudo mount maquinaServidorNFS:/COMPARTIR /COMPARTIR
 df -h 
 ```
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/T7_nfs_1.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/t7_nfs_1.jpg)
 
 -  Comprobamos los permisos de lectura y escritura
 
-![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/T7_nfs_2.jpg)
+![imagen](https://github.com/marlenelis/SWAP1516/blob/master/images/t7_nfs_2.jpg)
 
 
 
