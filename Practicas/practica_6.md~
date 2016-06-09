@@ -114,7 +114,7 @@ sudo mdadm --manage --add /dev/md127 /dev/sdb
 
 - opcional 
 
-<nota:> esta configuracion la realicé con otras máquinas virtuales con SO ubuntu server 16.04, ya que no logré solucionar lo de instalar el servidor nfs en el servidor que contiene el raid.
+<nota:> esta configuracion la realicé con otras máquinas virtuales con ubuntu server 16.04 ya que no logré solucionar lo de instalar el servidor nfs en el servidor que contiene el raid.
  
 
 - Instalar el servidor nfs
