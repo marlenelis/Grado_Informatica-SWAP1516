@@ -3,29 +3,29 @@ date: 2016-04-18
 title: "Entrega"
 author: Marlene Vásquez
 ---
-##Ejercicios Tema 4
+## Ejercicios Tema 4
 
-####Ejercicio T4.1:
+#### Ejercicio T4.1:
 **Buscar información sobre cuánto costaría en la actualidad un mainframe. Comparar precio y potencia entre esa máquina y una granja web de unas prestaciones similares.**
 
 Me ha resultado complicado realizar comparaciones de especificaciones y precios ya que los fabricantes no los exponen de forma pública.
 
-####Ejercicio T4.2:
+#### Ejercicio T4.2:
 **Buscar información sobre precio y características de balanceadores hardware específicos. Compara las prestaciones que ofrecen unos y otros.**
 
 
 
-####Ejercicio T4.3:
+#### Ejercicio T4.3:
 **Buscar información sobre los métodos de balanceo que implementan los dispositivos recogidos en el ejercicio 4.2**
 
 
 
-####Ejercicio T4.4:
+#### Ejercicio T4.4:
 **Instala y configura en una máquina virtual el balanceador ZenLoadBalancer.**
 [solución](https://github.com/marlenelis/SWAP1516/blob/master/Practicas/zenLoadBalancer.md)
 
 
-####Ejercicio T4.5:
+#### Ejercicio T4.5:
 
 **Probar las diferentes maneras de redirección HTTP.**
 **¿Cuál es adecuada y cuál no lo es para hacer balanceo de carga global? ¿Por qué?**
@@ -36,7 +36,7 @@ Me ha resultado complicado realizar comparaciones de especificaciones y precios 
 
 La adecuada  es la 302, porque sería posible redirigir el tráfico a diferentes direcciones temporales y no una permanente la cual también la actualizan navegadores.
 
-####Ejercicio T4.6:
+#### Ejercicio T4.6:
 
 **Buscar información sobre los bloques de IP para los distintos países o continentes.**
 **Implementar en JavaScript o PHP la detección de la zona desde donde se conecta un usuario.**
