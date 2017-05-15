@@ -83,10 +83,10 @@ A continuación el script que permite conjuntadamente con una base de datos que 
 ````
 
 
-####Ejercicio T4.7:
+#### Ejercicio T4.7:
 **Buscar información sobre métodos y herramientas para implementar GSLB.**
 
-##Referencias
+## Referencias
 
 http://kemptechnologies.com/es/load-balancer-kemp-f5-netscaler-comparison/
 
