@@ -4,7 +4,7 @@ title: "Entrega"
 author: Marlene Vásquez
 ---
 
-##Ejercicios Tema 7
+## Ejercicios Tema 7
 
 ### Ejercicio T7.1: 
 #### ¿Qué tamaño de unidad de unidad RAID se obtendrá al configurar un *RAID 0* a partir de dos discos de 100 GB y 100 GB?
